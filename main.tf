@@ -1,0 +1,1 @@
+# COBL-006 Logging Infrastructure Entry Point
